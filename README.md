@@ -27,7 +27,7 @@ Olá! Eu sou o Patrick, estudante de Análise e Desenvolvimento de Sistemas. Apa
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/> <br>
 
 [![](https://visitcount.itsvg.in/api?id=PatrickMCardoso&icon=0&color=11)](https://visitcount.itsvg.in)
 
