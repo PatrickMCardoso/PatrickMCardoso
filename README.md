@@ -2,7 +2,7 @@
 
 # 👋 Patrick M. Cardoso
 
-Olá! Eu sou o Patrick, estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades. Aqui você encontrará alguns dos meus projetos e estatísticas do GitHub.
+Hello! I'm Patrick, a Systems Analysis and Development student. Passionate about technology and software development, I am always looking for new knowledge and challenges to improve my skills. Here you will find some of my GitHub projects and statistics.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
